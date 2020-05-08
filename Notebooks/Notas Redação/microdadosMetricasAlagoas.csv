@@ -1,0 +1,5 @@
+;Modelo;Max_Error;MAE;R²;MSE;CV scores mean;CV scores std;Tempo de processamento min
+0;Random Forest;768.0;120.6;0.29;23802.45;0.31;0.01;7.62
+1;Regressão Linear;728.93;114.89;0.36;21442.59;0.38;0.01;0.26
+2;Rede Neural;690.0;118.41;0.32;22940.1;0.32;0.01;33.74
+3;Árvore de decisão;940.0;162.06;-0.31;44051.02;-0.31;0.01;2.03
